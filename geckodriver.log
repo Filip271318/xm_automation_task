@@ -1,0 +1,36 @@
+1683122480674	geckodriver	INFO	Listening on 127.0.0.1:53426
+1683122483729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\filip\\AppData\\Local\\Temp\\rust_mozprofile6R34ji"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683122484274	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683122484282	Marionette	INFO	Listening on port 53444
+Read port: 53444
+WebDriver BiDi listening on ws://127.0.0.1:53427
+1683122484536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\filip\\AppData\\Local\\Temp\\rust_mozprofile6R34ji\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53427/devtools/browser/c6214cac-8acb-4715-8b55-a1f060c42088
+JavaScript warning: https://www.xm.com/QaPCVZcntvRDOO0Pf_tn0KZYLvM/ufDOXpXbr3QOYw/OBoxAQ/OXtnK/SgiMXg, line 1: unreachable code after return statement
+JavaScript warning: https://www.xm.com/QaPCVZcntvRDOO0Pf_tn0KZYLvM/ufDOXpXbr3QOYw/OBoxAQ/OXtnK/SgiMXg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683122786499	geckodriver	INFO	Listening on 127.0.0.1:54821
+1683122789523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\filip\\AppData\\Local\\Temp\\rust_mozprofileQWLqY9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683122790045	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683122790052	Marionette	INFO	Listening on port 54835
+Read port: 54835
+WebDriver BiDi listening on ws://127.0.0.1:54822
+1683122790333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\filip\\AppData\\Local\\Temp\\rust_mozprofileQWLqY9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54822/devtools/browser/fd7999d8-9081-4687-bcd3-29b958892579
+JavaScript warning: https://www.xm.com/QaPCVZcntvRDOO0Pf_tn0KZYLvM/ufDOXpXbr3QOYw/OBoxAQ/OXtnK/SgiMXg, line 1: unreachable code after return statement
+JavaScript warning: https://www.xm.com/QaPCVZcntvRDOO0Pf_tn0KZYLvM/ufDOXpXbr3QOYw/OBoxAQ/OXtnK/SgiMXg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 24280, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript warning: https://www.xm.com/QaPCVZcntvRDOO0Pf_tn0KZYLvM/ufDOXpXbr3QOYw/OBoxAQ/OXtnK/SgiMXg, line 1: unreachable code after return statement
+JavaScript warning: https://www.xm.com/QaPCVZcntvRDOO0Pf_tn0KZYLvM/ufDOXpXbr3QOYw/OBoxAQ/OXtnK/SgiMXg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
